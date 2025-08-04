@@ -1,7 +1,7 @@
-# Agency Minimal Landing Page (React)
+# Agency Minimal Landing Page 
 
 ## Description
-This is a pixel-perfect, responsive landing page built with **React.js**.
+This is a pixel-perfect, responsive landing page built.
 
 The project demonstrates clean, modular React components with a focus on modern, minimal design and performance optimization.
 
@@ -17,9 +17,10 @@ Live demo available at:
 - Uses modern React hooks and best practices  
 
 ## Technologies Used
-- React.js  
+- HTML 
 - CSS3 (Flexbox/Grid)  
-- JavaScript (ES6+)  
+- JavaScript (ES6+)
+- React.js  
 - Deployed on Netlify  
 
 ## Installation & Usage
