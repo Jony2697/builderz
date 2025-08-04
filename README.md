@@ -1,12 +1,28 @@
-# React + Vite
+# Agency Minimal Landing Page (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is a pixel-perfect, responsive landing page built with **React.js**.
 
-Currently, two official plugins are available:
+The project demonstrates clean, modular React components with a focus on modern, minimal design and performance optimization.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
+Live demo available at:  
+[https://jolly-tanuki-63a9cd.netlify.app/](https://jolly-tanuki-63a9cd.netlify.app/)
 
-## Expanding the ESLint configuration
+## Features
+- Pixel-perfect implementation of the Figma design  
+- Fully responsive and mobile-friendly layout  
+- Clean and modular React components  
+- Performance optimized for fast loading  
+- Uses modern React hooks and best practices  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+- React.js  
+- CSS3 (Flexbox/Grid)  
+- JavaScript (ES6+)  
+- Deployed on Netlify  
+
+## Installation & Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jony2697/builderz.git
