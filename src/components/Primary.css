@@ -1,0 +1,13 @@
+body {
+  font-family: 'DM Sans', sans-serif;
+}
+
+.nav-title{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-size: 20px;   
+}
+
+.testimonial-comment{
+  font-family: "Playfair Display", serif;
+}
